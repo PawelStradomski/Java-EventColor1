@@ -1,6 +1,8 @@
 
 package zdarzenia.kolor.pkg1;
-
+/**
+ * @author pawelstradomski
+ */
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
